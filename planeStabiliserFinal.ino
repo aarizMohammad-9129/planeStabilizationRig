@@ -1,4 +1,4 @@
-//The following code is for a plane stablising rig as part of my MIT Maker's Protfolio 
+//The following code is for a plane stabilizing rig as part of my MIT Maker's Protfolio 
 
 #include <Wire.h> 
 #include <Servo.h>
