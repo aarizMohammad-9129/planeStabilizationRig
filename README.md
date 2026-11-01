@@ -14,4 +14,4 @@ I initially wanted to incorporate a working PID loop, by utilizing the gyroscope
 My initial design needed two servos to show the functioning of the ailerons. But, due to a cascading failure in my robotic arm project, I lost two out of three of my available servos. I couldn't buy a new servo because I had gone well over my 3,000 rupee budget, and the hike in the prices of electronics in the closest hobby market, I had to think of a more robust solution for the demonstration. After researching some designs of a few aircrafts, I decided on the design of fighter jets. In a standard aircraft, the ailerons are situated far apart. But in a fighter jet, the ailerons are closer to each other. So, by changing the design of the aircraft to one similar to an F-20 Raptor, the horn of the servo, and two aluminum wires, I successfully simulated the same effect as two servos with one. 
 
 
-((Click here to go back to main repository))[https://github.com/aarizMohammad-9129/MIT-Maker-Portfolio_Mohammad-Aariz/blob/main/README.md]
+[(Click here to go back to main repository)](https://github.com/aarizMohammad-9129/MIT-Maker-Portfolio_Mohammad-Aariz/blob/main/README.md)
