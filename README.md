@@ -1,5 +1,5 @@
 # Plane Stabilization Rig
-A flight stabilization test rig utilizing an Arduino UNO, an MPU-6050 and two SG90 digital servo.
+A flight stabilization test rig utilizing an Arduino UNO, an MPU-6050 and two SG90 digital servos.
 It is a systems project designed to simulate the working of ailerons on an aircraft. 
 
 ## Materials used:
