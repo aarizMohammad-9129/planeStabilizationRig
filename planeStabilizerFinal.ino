@@ -37,7 +37,7 @@ void loop() {
   int angleB = 180-angleA;
   
   angleA = constrain(angleA, 0, 180);
-  angleB = constrain(angleB, 0, 180)
+  angleB = constrain(angleB, 0, 180);
 
   servoA.write(angleA);
   servoB.write(angleB);
